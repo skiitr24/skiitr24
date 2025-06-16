@@ -74,6 +74,6 @@ Bio:
 <h2> Connect with me: </h2>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/ksiitr"><img src="https://img.icons8.com/color/96/000000/linkedin.png" alt="linkedin" width="60" height="60"/></a>
-  <a href="mailto:krishna24sah05@gmail.com"><img src="https://img.icons8.com/color/96/000000/gmail.png" alt="email" width="60" height="60"/></a>
+  <a href="https://www.linkedin.com/in/skiitr24/"><img src="https://img.icons8.com/color/96/000000/linkedin.png" alt="linkedin" width="60" height="60"/></a>
+  <a href="mailto:krishnaworkofficial24@gmail.com"><img src="https://img.icons8.com/color/96/000000/gmail.png" alt="email" width="60" height="60"/></a>
 </p>
