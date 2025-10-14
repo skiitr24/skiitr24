@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 ```yaml
 Bio:
     Name: "Krishna Shankar"
-    Role: "Software Developer", "Accenture Japan"
+    Role: "Software Developer", "Goldman Sachs"
     Education: "Indian Institute of Technology, Roorkee"
     Location: "Tokyo, Japan"
     Hobbies: "Swing Trading, Mutual Fund, Anime"
